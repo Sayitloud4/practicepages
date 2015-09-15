@@ -1,0 +1,61 @@
+#header {	
+	border:3px solid black;
+	overflow: hidden;
+	text-align: center;
+}
+
+#headb1 {
+	position: relative;
+	height: 100px;
+	width: 60%;
+	background-color:red;
+	float: left;
+
+}
+
+#headb2 {
+	height: 100px;
+	width: 40%;
+	background-color: orange;
+	float: left;
+}
+
+.hinnerb {
+	position: relative;
+	width: 77%;
+	background-color: white;
+	height: 70%;
+	border: 1px solid black;
+	margin: 0 auto;
+	margin-top:15px;
+}
+
+#clears {
+clear: both;
+margin: 0px;
+padding: 0px;
+}
+
+
+#content {
+width: 100%
+
+}
+
+.cb {
+width: 33%;
+background-color: white;
+float: left;
+height: 600px;
+border: 1px dashed black;
+
+
+}
+
+#footer {
+width: 99%;
+background-color:blue;
+height: 200px;
+float: left;
+}
+
